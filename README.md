@@ -12,10 +12,10 @@ This project analyzes and predicts household energy consumption using machine le
 ![Daily Trend](images/daily_trend1.png)
 
 ### 📈 Monthly Trend
-![Monthly Trend](images/daily_trend2.png)
+![Monthly Trend](images/monthly_trend.png)
 
 ### ⏰ Hourly Usage
-![Hourly Usage](images/daily_trend3.png)
+![Hourly Usage](images/hourly_trend.png)
 
 ### 🤖 Model Prediction
 ![Prediction](images/rf_prediction.png)
