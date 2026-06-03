@@ -1,46 +1,45 @@
-⚡ Smart Energy Consumption Analyzer
+# ⚡ Smart Energy Consumption Analyzer
 
-📌 Overview
+## 📌 Overview
 This project analyzes and predicts household energy consumption using machine learning.
 
-🚀 Features
+## 🚀 Features
 - Data cleaning and preprocessing
 - Time-series analysis
 - Feature engineering (lag, rolling features)
 - Machine learning models (Linear Regression, Random Forest)
 - Interactive dashboard using Streamlit
 
-📊 Insights
+## 📊 Insights
 - Peak energy usage occurs during evening hours (7–10 PM)
 - Clear seasonal trends observed in monthly consumption
 - Energy usage is lowest during late night hours
 - Data shows right-skewed distribution with occasional spikes
 
-🤖 Model
+## 🤖 Model
 - Linear Regression (baseline)
 - Random Forest (optimized)
 
-📈 Evaluation
+## 📈 Evaluation
 - RMSE used for performance measurement
 - Random Forest outperformed Linear Regression
 
-🖥️ Dashboard
-Run locally:
-```bash
+## 🖥️ Dashboard
+Run locally via bash:
 streamlit run app.py
 
-📂 Dataset
+## 📂 Dataset
 Dataset not included due to size limitations.
 Download from:
 https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
 
-🛠️ Tech Stack:
+## 🛠️ Tech Stack
 Python
 Pandas, NumPy
 Matplotlib, Seaborn
 Scikit-learn
 Streamlit
 
-📬 Contact:
+## 📬 Contact
 LinkedIn: https://www.linkedin.com/in/hridya-hirawat-b077722b6/
 GitHub: https://github.com/HRIDYA03
