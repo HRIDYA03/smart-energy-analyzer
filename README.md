@@ -5,6 +5,9 @@ This project analyzes and predicts household energy consumption using machine le
 
 ## 📸 Project Visuals
 
+### 🖥️ Dashboard
+![Daily Trend](images/dashboard.png)
+
 ### 📊 Daily Trend
 ![Daily Trend](images/daily_trend1.png)
 
