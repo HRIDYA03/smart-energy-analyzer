@@ -3,6 +3,20 @@
 ## 📌 Overview
 This project analyzes and predicts household energy consumption using machine learning.
 
+## 📸 Project Visuals
+
+### 📊 Daily Trend
+![Daily Trend](images/daily_trend1.png)
+
+### 📈 Monthly Trend
+![Monthly Trend](images/daily_trend2.png)
+
+### ⏰ Hourly Usage
+![Hourly Usage](images/daily_trend3.png)
+
+### 🤖 Model Prediction
+![Prediction](images/rf_prediction.png)
+
 ## 🚀 Features
 - Data cleaning and preprocessing
 - Time-series analysis
