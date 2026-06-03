@@ -9,7 +9,7 @@ This project analyzes and predicts household energy consumption using machine le
 ![Daily Trend](images/dashboard.png)
 
 ### 📊 Daily Trend
-![Daily Trend](images/daily_trend1.png)
+![Daily Trend](images/daily_trend.png)
 
 ### 📈 Monthly Trend
 ![Monthly Trend](images/monthly_trend.png)
